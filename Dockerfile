@@ -12,4 +12,4 @@ EXPOSE 5000
 
 ENV ENVIRONMENT local
 
-ENTRYPOINT python ./main.py
+ENTRYPOINT python var/lib/docker./main.py
