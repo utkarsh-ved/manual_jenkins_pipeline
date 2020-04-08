@@ -1,3 +1,3 @@
 containers:
 - name: deploy
-  image: k8spipeline.azurecr.io/img:18
+  image: mlopsbucket.azurecr.io/deploy:v1
